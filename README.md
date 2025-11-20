@@ -77,6 +77,12 @@ Specify tools to run:
   --html-comments             Run HTML comments parsin
 ```
 
+### Install
+```bash
+sudo chmod +x htbinit.sh
+sudo ln -sf htbinit.sh /usr/bin/htbinit
+```
+
 ### 😼 Links
 
 [RootMe 💀](http://catleidoscope.sergethew.com/) - [HackTheBox 🟩](https://hackertyper.com/)
